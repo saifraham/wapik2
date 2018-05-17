@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+body{
+	font-family: 'roboto', sans-serif;
+	font-size: 18px;
+	color: #333;
+	
+
+}
+.top-contact{
+	color: #fff;
+	border-left: 1px solid;
+	padding-left: 20px;
+}
+.getstarted{
+
+}
+.banner{
+	background-image: url(../images/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+
+}
+.banner-content{
+
+}
+.banner-content h2{
+	font-size: 38px;
+	color: white;
+
+}
+.banner-content p{
+	font-size: 16px;
+	color: #fff;
+}
+.bg-custom{
+	background-color: #6FB04A;
+	padding: 10px 30px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: white;
+
+
+
+}
+#navbarSupportedContent{
+	font-size: 14px;
+}
+.banner-h{
+	min-height: 666px;
+	
+}
+.overlay{
+	position: absolute;
+	background: #437a7cad;
+	top:0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.bg-dark{
+	background-color: #437a7c00 !important;
+	border-bottom:  1px solid #b5a2a2c9;
+}
+.features-section{ padding: 100px 0px}
+.feature-heading{text-align: center;
+	
+	margin-bottom: 100px;
+
+}
+.feature-heading h2{
+	font-size: 32px;
+	color: #0f3f5c;
+}
+.feature-heading span{
+	 height:  2px;
+    width:  100px;
+    background:  #0f5f5c;
+    display:  block;
+    margin:  20px auto;
+    
+}
+.feature-heading p{
+	max-width: 500px;
+	margin: 0px auto;
+
+}
+
+
+.features{
+	text-align: center;
+
+}
+.features img{}
+.features h3{font-size: 15px;
+	font-weight: 600;
+	margin: 20px 0;
+
+
+}
+.features p{}
+.line{
+	text-align: center;
+	
+	margin-top: 40px;
+}
+.line img{}
+
+
+.features-two {
+	font-size: 14px;
+}
+.feature-two .list-inline {}
+.feature-two .list-inline .list-inline-item{}
+.feature-two .list-inline .list-inline-item img{}
+.feature-two .list-inline .list-inline-item h4{font-size: 20px;
+margin-top: 50px;}
+.feature-two p{}
+
+.mobile-section{
+	background:url(../images/perfect-template.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 100px 0;
+}
+
+.responsive-h{padding: 70px 0;}
+.responsive-ready-content{}
+.responsive-ready-content h1{}
+.responsive-ready-content p{}
+.list-unstyled{}
+.list-unstyled li{
+    color: #83a7a5;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.list-unstyled li i {
+    font-size: 22px;
+    vertical-align: middle;
+    margin-right: 10px;}
+
+ .testimonial{
+ 	padding: 100px;
+ }
+ .testimonial-text p{
+    font-size:  22px;
+    color: #83a7a5;
+}
+ .testimonial-text span{
+ 	font-size: 14px;
+ 	color: #3a920f;
+ }
+ .testimonial-text small{
+ 	font-size: 14px;
+ }
+ .testimonial-image{
+ 	float: left;
+ }
+
+
+.map-section{
+
+	padding: 100px 0px 177px; background: #eef1ec;
+}
+.map-section h2{
+	font-size: 32px;
+	color: #0f5f5c;
+}
+..map-section p{
+	font-size: 14px;
+	color: #83a7a5;
+
+}
+.pricing{
+	text-align: center;
+	border: 1px solid #c1d3d2;
+	padding-bottom: 30px;
+}
+.pricing-section-title{ margin-top: 110px; }
+.pricing-section-title h2{
+	font-size: 32px;
+	color: #0f5f5c;
+	text-align: center;
+}
+.pricing-section-title span{
+	height: 1px; 
+	width: 100px; 
+	background: #6fb048; 
+	display: block; 
+	margin: 15px auto;
+}
+.pricing-section-title p{
+	color: #83a7a5; 
+	font-size: 15px; 
+	max-width: 500px; 
+	text-align: center; 
+	 margin: 0 auto; 
+	 margin-bottom: 20px;}
+
+}
+
+.pricing-list {
+	border-right: 2px solid #c1d3d2;
+
+}
+.pricing-list h2{font-size: 15px; color: #6fb048; font-weight: bold; margin-top: 20px;}
+.pricing-list p{
+	font-size: 65px;
+	color: #0f5f5c;
+	font-weight: bold;
+	margin-bottom: -11px;
+}
+.pricing-list span{font-size: 14px;
+	font-weight: bold;
+	color: #0f5f5c;
+
+}
+.pricing-list ul li{
+	font-size: 14px;
+	color: #83a7a5;
+}
+.btn-price-custom{ font-size: 13px;
+background: #83a7a5;
+text-transform: uppercase;
+padding:  10px 41px;
+color: white; }
+
+
+.include-plan-heading{margin-top: 43px;
+	text-align: center;
+
+}
+.include-plan-heading h2{
+	font-size: 22px;
+	color: #0f5f5c;
+	margin-bottom: 20px;
+}
+.include-plan-heading span{
+	height: 1.7px;
+	width: 70px;
+	background: #6fb048;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+.included-list{}
+.included-list li{}
+
+
+
+.help-section{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+.need-help{
+    text-align:  center;
+  
+}
+.need-help img{}
+.need-help h2{
+    font-size:  32px;
+    color:  #6fb048;
+    margin-top: 15px;
+}
+.need-help span{
+    background: #6fb048;
+    height:  2px;
+    width:  60px;
+    display:  block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.need-help p{
+    max-width: 600px;
+    margin:  0 auto;
+    color:  #83a7a5;
+    margin-bottom:  20px;
+}
+.need-help a{
+	color: #0f5f5c;
+	font-size: 18px;
+}
+
+
+.download-section{
+	padding: 80px;
+	background-image: url(../images/download.png);
+}
+.download-section h2{font-size: 28px; color: #0f5f5c;
+}
+.download-section p{ font-size: 15px;
+color: #83a7a5; }
+.download-section a{
+	font-size: 13px;
+	background-color: #6fb048;
+	color: white;
+	padding: 8px 10px;
+}
+.footer-section{ margin-top: 90px; }
+.footer{}
+.footer h1{
+	font-size: 22px;
+	color: #0f5f5c;
+}
+.footer h6{
+	font-size: 13px;
+	color: #0f5f5c;
+}
+.footer h4{
+	font-size: 13px;
+	color: #83a7a5;
+}
+.footer address{
+	font-size: 13px;
+	color: #83a7a5;
+}
+.footer li a{
+	text-decoration: none;
+	font-size: 13px;
+	color: #83a7a5;
+}
+.footer h3{font-size: 13px;
+color: #0f5f5c;
+font-weight: bold;}
+.footer span{
+	font-size: 13px;
+	color: #83a7a5;
+}
+
+
+.final-footer{padding-top: 26px;}
+.final-footer p{font-size: 12px; color: #83a7a5;}
+.social{ text-align: right; }
+.social li{
+	list-style: none;
+	display: inline-block;
+}
+.social li a{ color: white; }
+
+.social .facebook{
+	background: #3b5998;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 32px;
+}
+.social .twitter{
+	background: #55acee;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 32px;
+}
+
+.social .dribbble{
+	background: #ea4c89;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 32px;
+}
+.social .instagram{
+	background: #4f7ea3;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 32px;
+}
+.social .linkedin{
+	background: #3b5998;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 32px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ color: #0f5f5c; font-size: 32px;
